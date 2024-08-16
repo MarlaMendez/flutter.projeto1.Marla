@@ -41,6 +41,7 @@ class Sextou extends StatelessWidget {
               ],
             ),
           ),
+          floatingActionButton: FloatingActionButton(onPressed: null),
         ));
   }
 }
